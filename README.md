@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytx222)](https://github.com/anuraghazra/github-readme-stats?theme=react)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytx222&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
